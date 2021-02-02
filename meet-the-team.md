@@ -4,7 +4,7 @@ title: Meet the Team @ FOSDEM
 
 # Meet the Checkmk Team at FOSDEM
 
-{{< figure src="/stands/checkmk/team-cmk.jpg>}}
+{{< figure src="/stands/checkmk/team-cmk.jpg">}}
 
 ## Alex
 
