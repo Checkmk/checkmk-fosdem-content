@@ -13,6 +13,7 @@ Here are some links to know more about the Checkmk monitoring software. We would
 * [Download the Checkmk Raw Edition](http://checkmk.io/39JFoWI)
 * [Documentation](https://docs.checkmk.com)
 * [Community Forum](https://forum.checkmk.com)
+* [Checkmk video tutorials on YouTube (German with English subtitles)](https://youtube.com/playlist?list=PL8DfRO2DvOK1uqr0BA0eo3L9Rtwu9rfzW)
 * [Twitter](https://twitter.com/checkmk)
 * [E-mail](mailto:info@checkmk.com)
 
