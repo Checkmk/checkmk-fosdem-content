@@ -18,9 +18,9 @@ showcase: |
   <img src="/stands/checkmk/monitoring-dashboard2.jpg">
   <h2>Stand Schedule</h2>
   <h3>Saturday</h3>
-  <img src="/stands/checkmk/cmk-sat.jpg">
+  <img src="/stands/checkmk/cmk-sat.jpg" width="400px">
   <h3>Sunday</h3>
-  <img src="/stands/checkmk/cmk-sun.jpg">
+  <img src="/stands/checkmk/cmk-sun.jpg" width="400px">
 themes:
 - System administration
 title: Checkmk
