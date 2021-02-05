@@ -14,7 +14,7 @@ new_this_year: |
   our Documentation and Localization contribution programs.</p>
 showcase: |
   <p>Our stand will be interesting for hobbyists building their homelab or IT professionals who are managing their organization's infrastructure. At our stand we'll share some insights of what we learned in the field, explain some of our problem-solving approach in the job and show some demos. We'll also share how we are trying to bridge the gap between IT Ops and DevOps teams &mdash; two teams that historically have been working in silos &mdash; to improve collaboration.</p>
-  {{< figure src="/stands/checkmk/dashboard.jpg>}}
+  <img src="/stands/checkmk/dashboard.jpg">
 themes:
 - System administration
 title: Checkmk
