@@ -8,7 +8,7 @@ Here are some links to know more about the Checkmk monitoring software. We would
 ## Try the Checkmk 2.0 Beta
 
 * [Checkmk 2.0 Demo](http://checkmk.io/3pPKQOx)
-(username: omdadmin password: fosdem2021)
+u: demo125 // p: demo
 
 ## Useful Links
 * [Download the Checkmk Raw Edition](http://checkmk.io/39JFoWI)
