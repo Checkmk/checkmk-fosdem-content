@@ -7,13 +7,18 @@ Here are some links to know more about the Checkmk monitoring software. We would
 
 ## Try Checkmk 2.0
 
-_Link TBA_
+* [Play with Checkmk on this demo server](https://checkmk.io/3g9wYM3).
+* [Download the Checkmk Raw Edition](http://checkmk.io/39JFoWI)
 
 ## Useful Links
-* [Download the Checkmk Raw Edition](http://checkmk.io/39JFoWI)
+
+### Video Tutorials
+* [Checkmk video tutorials on YouTube](https://checkmk.io/32JEnhM)
+* [Automatically detecting log4j vulnerabilities in your IT with Checkmk](https://youtu.be/ZRfVgZNcdZQ)
+
+### Ask for Help
 * [Documentation](https://docs.checkmk.com)
 * [Community Forum](https://forum.checkmk.com)
-* [Checkmk video tutorials on YouTube (German with English subtitles)](https://youtube.com/playlist?list=PL8DfRO2DvOK1uqr0BA0eo3L9Rtwu9rfzW)
 * [Twitter](https://twitter.com/checkmk)
 * [E-mail](mailto:info@checkmk.com)
 

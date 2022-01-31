@@ -10,9 +10,9 @@ new_this_year: |
   <p>Since the last FOSDEM, we released the version 2.0 of the software which includes an overhaul of the GUI,
   dramatic performance improvements, integration with Prometheus, and ntop for a more holistic approach in monitoring, among others.</p>
 showcase: |
-  <img src="logo.png"><p>Our stand will be interesting for hobbyists building their homelab or IT professionals who are managing their organization's infrastructure. At our stand we'll share some insights of what we learned in the field, explain some of our problem-solving approach in the job and show some demos. We'll also share how we are trying to bridge the gap between IT Ops and DevOps teams &mdash; two teams that historically have been working in silos &mdash; to improve collaboration. </p>
-  <p>We're available the whole day for you, with some special demos scheduled.</p>
-  <img src="/stands/checkmk/monitoring-dashboard2.jpg">
+  <img src="logo.png"><p>Our stand will be interesting for hobbyists building their homelab or IT professionals who are managing their organization's infrastructure. At our stand we'll share some insights of what we learned in the field, explain some of our problem-solving approach in the job and show some demos. </p>
+  <p>We're available the whole day for you, with some demos scheduled at specific times.</p>
+  <img src="/stands/checkmk/checkmk-light-dark-theme.png">
   <h2>Stand Schedule</h2>
   TBD
 themes:
