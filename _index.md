@@ -15,80 +15,80 @@ showcase: |
   <img src="/stands/checkmk/checkmk-light-dark-theme.png">
   <h2>Stand Schedule</h2>
   <h3>Saturday</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Time<br>(CET)</th>
-        <th>Activity</th>
+  <table style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+    <thead style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <th style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Time<br>(CET)</th>
+        <th style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Activity</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>11:00-11:30</td>
-        <td>Technical Demo<br><em>Spinning up - How to bootstrap a Checkmk server</em></td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">11:00-11:30</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Technical Demo<br><em>Spinning up - How to bootstrap a Checkmk server</em></td>
       </tr>
-      <tr>
-        <td>11:30-12:00</td>
-        <td>Ask-us-Anything</td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">11:30-12:00</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Ask-us-Anything</td>
       </tr>
-      <tr>
-        <td>12:00-13:00</td>
-        <td>Break<br><em>Casual chit-chats welcome!</em></td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">12:00-13:00</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Break<br><em>Casual chit-chats welcome!</em></td>
       </tr>
-      <tr>
-        <td>13:00-13:30</td>
-        <td>Ask-us-Anything</td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">13:00-13:30</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Ask-us-Anything</td>
       </tr>
-      <tr>
-        <td>13:30-14:00</td>
-        <td>Technical Demo<br><em>Scaling up and out - Adding hosts and services in Checkmk</em></td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">13:30-14:00</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Technical Demo<br><em>Scaling up and out - Adding hosts and services in Checkmk</em></td>
       </tr>
-      <tr>
-        <td>14:00-14:30</td>
-        <td>Ask-us-Anything</td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">14:00-14:30</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Ask-us-Anything</td>
       </tr>
-      <tr>
-        <td>14:30-15:00</td>
-        <td>Technical Demo<br><em>Rule the world - How to configure baseline rules in Checkmk</em></td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">14:30-15:00</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Technical Demo<br><em>Rule the world - How to configure baseline rules in Checkmk</em></td>
       </tr>
     </tbody>
     </table>
   <h3>Sunday</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Time<br>(CET)</th>
-        <th>Activity</th>
+  <table style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+    <thead style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <th style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Time<br>(CET)</th>
+        <th style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Activity</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>12:00-12:30</td>
-        <td>Technical Demo<br><em>Spinning up - How to bootstrap a Checkmk server</em></td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">12:00-12:30</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Technical Demo<br><em>Spinning up - How to bootstrap a Checkmk server</em></td>
       </tr>
-      <tr>
-        <td>12:30-13:30</td>
-        <td>Break<br><em>Casual chit-chats welcome!</em></td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">12:30-13:30</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Break<br><em>Casual chit-chats welcome!</em></td>
       </tr>
-      <tr>
-        <td>13:30-14:00</td>
-        <td>Talk @ Network Devroom<br><em>Why rules-based monitoring is still great</em></td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">13:30-14:00</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Talk @ Network Devroom<br><em>Why rules-based monitoring is still great</em></td>
       </tr>
-      <tr>
-        <td>14:00-14:30</td>
-        <td>Continuing the discussion from the Network Devroom</td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">14:00-14:30</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Continuing the discussion from the Network Devroom</td>
       </tr>
-      <tr>
-        <td>14:30-15:00</td>
-        <td>Technical Demo<br><em>Spinning up - How to bootstrap a Checkmk server</em></td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">14:30-15:00</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Technical Demo<br><em>Spinning up - How to bootstrap a Checkmk server</em></td>
       </tr>
-      <tr>
-        <td>15:00-15:30</td>
-        <td>Ask-us-Anything</td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">15:00-15:30</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Ask-us-Anything</td>
       </tr>
-      <tr>
-        <td>15:30-16:00</td>
-        <td>Technical Demo<br><em>Scaling up and out - Adding hosts and services in Checkmk</em></td>
+      <tr style="padding: 10px; border: 1px solid black; border-collapse: collapse;">
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">15:30-16:00</td>
+        <td style="padding: 10px; border: 1px solid black; border-collapse: collapse;">Technical Demo<br><em>Scaling up and out - Adding hosts and services in Checkmk</em></td>
       </tr>
     </tbody>
     </table>
